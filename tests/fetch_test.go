@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"github.com/shisuimadara/gitContrib/api"
+	"github.com/shisuimadara/gitContri/api"
 	"net/http"
 	"net/http/httptest"
 	"testing"

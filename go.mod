@@ -1,4 +1,4 @@
-module cli
+module gitContri
 
 go 1.20
 
