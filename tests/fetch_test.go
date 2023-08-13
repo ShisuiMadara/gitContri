@@ -1,7 +1,6 @@
 package tests
 
 import (
-	"github.com/shisuimadara/gitContri/api"
 	"net/http"
 	"net/http/httptest"
 	"testing"
